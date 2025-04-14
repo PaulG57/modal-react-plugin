@@ -13,12 +13,12 @@
     width: 30%;
     max-width: 600px;
     border-radius: 0.5rem;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 0 10px rgba(10, 80, 193, 0.7);
     position: relative;
     text-align: center;
     font-family: 'Arial', sans-serif;
     font-size: 1.2rem;
-    color: #333;
+    border: 1px solid #1465cee6;
   }
 
   .modal button {
